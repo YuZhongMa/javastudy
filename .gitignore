@@ -30,4 +30,4 @@ out/
 ### didi build ###
 output/
 .deploy/*
-.DS_Store
+#.DS_Store
