@@ -1,7 +1,7 @@
-package com.mlj;
+package com.base;
 
 /**
- * @Author mlj
+ * @Author base
  */
 public class HelloWorld {
     public static void main(String[] args) {

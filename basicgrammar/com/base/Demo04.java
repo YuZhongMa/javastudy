@@ -1,4 +1,4 @@
-package com.mlj;
+package com.base;
 
 public class Demo04 {
     public static void main(String[] args) {

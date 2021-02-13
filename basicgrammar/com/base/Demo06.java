@@ -1,6 +1,4 @@
-package com.mlj;
-
-import java.util.Date;
+package com.base;
 
 /**
  * 常量

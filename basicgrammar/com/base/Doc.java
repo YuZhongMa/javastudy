@@ -1,7 +1,7 @@
-package com.mlj;
+package com.base;
 
 /**
- * @author mlj
+ * @author base
  * @version 1.0
  * @since 1.8
  */
@@ -9,7 +9,7 @@ public class Doc {
     String name;
 
     /**
-     * @author mlj
+     * @author base
      * @param name
      * @return
      * @throws Exception

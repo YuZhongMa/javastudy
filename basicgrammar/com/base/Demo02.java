@@ -1,4 +1,4 @@
-package com.mlj;
+package com.base;
 
 /**
  * 拓展
