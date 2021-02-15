@@ -1,11 +1,16 @@
+/**
+ * 封装
+ * 1. 高内聚，低耦合 类的内部数据操作自己完成，不允许外部干涉。仅暴露少量方法给外部使用；
+ * 2. 提高程序的安全性
+ * 3. 隐藏代码细节
+ * 4. 统一接口，提高可维护
+ */
 package com.oop.demo04;
 
 public class Application {
-    /**
-     * 1.类是一个模版，对象是一个具体的实例
-     * 2.方法的定义与调用
-     * 3.对象的引用，对象通过引用来操作
-     * 4.对象的属性：Field 成员变量 属性，默认初始化 char :u0000;
-     * 5 对象的创造与使用
-     */
+    public static void main(String[] args) {
+        Student student = new Student();
+        student.setName("mlj");
+        System.out.println(student.getName());
+    }
 }

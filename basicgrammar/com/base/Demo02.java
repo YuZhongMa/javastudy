@@ -29,6 +29,7 @@ public class Demo02 {
         char c2 = '这';
         System.out.println((int)c1);
         System.out.println((int)c2);
+        System.out.println((double)c2 + "+++++++");
         //所有字符本质还是数字
         //编码 Unicode 范围 0 - 65536  2字节
         System.out.println((char)65);
