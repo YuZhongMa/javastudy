@@ -1,4 +1,4 @@
-package com.processandthread;
+package com.thread;
 
 public class CreateThread {
 
