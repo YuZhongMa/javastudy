@@ -1,7 +1,7 @@
-package com.base;
+package com.javabase;
 
 /**
- * @Author base
+ * @Author javabase
  * 基本类型
  * java强类型区别于js弱类型
  * 先定义再使用

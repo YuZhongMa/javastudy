@@ -1,7 +1,7 @@
-package com.base;
+package com.javabase;
 
 /**
- * @Author base
+ * @Author javabase
  */
 public class HelloWorld {
     public static void main(String[] args) {

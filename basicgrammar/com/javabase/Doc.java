@@ -1,7 +1,7 @@
-package com.base;
+package com.javabase;
 
 /**
- * @author base
+ * @author javabase
  * @version 1.0
  * @since 1.8
  */
@@ -9,7 +9,7 @@ public class Doc {
     String name;
 
     /**
-     * @author base
+     * @author javabase
      * @param name
      * @return
      * @throws Exception

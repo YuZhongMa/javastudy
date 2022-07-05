@@ -1,4 +1,4 @@
-package com.base;
+package com.javabase;
 
 /**
  * 作用域
