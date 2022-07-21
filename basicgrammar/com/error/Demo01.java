@@ -12,7 +12,7 @@ public class Demo01 {
         try{
             new Demo01().a();
         } catch (Error e){
-            System.out.println("error");
+            System.out.println(e);
         } catch (Exception e){
             System.out.println("Exception");
         } catch (Throwable e){
