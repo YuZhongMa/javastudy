@@ -6,13 +6,6 @@
  * 5.抽象类接口
  * 6.内部类和OOP实践
  */
-package com.oop.demo01;
-
-public class Demo00 {
-    public static void main(String[] args) {
-
-    }
-}
 /**
  * 1.类是一个模版，对象是一个具体的实例
  * 2.方法的定义与调用
@@ -20,3 +13,10 @@ public class Demo00 {
  * 4.对象的属性：Field 成员变量 属性，默认初始化 char :u0000;
  * 5 对象的创造与使用
  */
+package com.oop.demo01;
+
+public class Demo00 {
+    public static void main(String[] args) {
+
+    }
+}
